@@ -1,13 +1,17 @@
 ____Create React Peoject____
 npx create-react-app {nome-do-peojeto} --template=typescript
 
-
 ____fragment____
 
 <> </> ==== não interfere no layout e coloca todas as tags dentro de uma tag raiz
 
-____ Exemplo inicial____
+____ npm add react-icons____
+para importar icones 
 
+____npm add react-router-dom____
+
+____ Exemplo inicial____
+<!-- 
   <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
@@ -24,4 +28,4 @@ ____ Exemplo inicial____
           Learn React
         </a>
       </header>
-    </div>
+    </div> -->
